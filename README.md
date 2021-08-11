@@ -1,0 +1,2 @@
+# IDOS
+IDOS(Improved D3DOCK On Spark), a high-throughput and scalable virtual docking system. We use the open source Hadoop framework implementing the Spark paradigm for distributed computing on a private cloud platform. IDOS can work on a single node as well as on distributed nodes compared with the stand-alone version of D3DOCK, it performed almost linear acceleration on our Spark cluster, with parallel efficiency of more than 80%.
